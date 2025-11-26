@@ -1,168 +1,168 @@
  
-[/a1.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/a2.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/a3.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/a4.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/a5.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/adcdownload.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/adcdownload.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/amp-api-updates.apps.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/amp-api.media.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/app-site-association.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/appldnld.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/appldnld.g.aaplimg.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/appleid.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/apps.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/apps.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/bag-cdn.itunes-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn-cn1.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn-cn2.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn-cn3.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn-cn4.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn1.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn2.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn3.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdn4.apple-mapkit.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cds-cdn.v.aaplimg.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cds.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cds.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cdsassets.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/certs.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl1-cdn.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl1.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl2-cn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl2.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl3-cdn.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl3.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl4-cdn.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl4-cn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl4.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl5-cdn.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cl5.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/clientflow.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/clientflow.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cn-smp-paymentservices.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/configuration.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/configuration.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/crl.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cstat.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/cstat.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/dd-cdn.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/dejavu.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/devimages-cdn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/devstreaming-cdn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/download.developer.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/experiments.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gs-loc-cn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gs-loc.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gsp10-ssl-cn.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gsp12-cn.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gsp13-cn.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gsp4-cn.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gsp5-cn.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gsp85-cn-ssl.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe19-2-cn-ssl.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe19-cn-ssl.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe19-cn.ls-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe19-cn.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe21-ssl.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe35-ssl.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/gspe79-cn-ssl.ls.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/guzzoni-apple-com.v.aaplimg.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/guzzoni.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/guzzoni.smoot.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/iadsdk.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/icloud-cdn.icloud.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/icloud.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init-kt.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init-p01md-lb.push-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init-p01md.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init-p01st-lb.push-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init-p01st.push.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init-s01st-lb.push-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init-s01st.push.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/init.ess.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/iosapps.itunes.g.aaplimg.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/ipcdn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/iphone-ld.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/iphone-ld.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is1-ssl.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is1.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is2-ssl.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is2.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is3-ssl.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is3.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is4-ssl.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is4.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is5-ssl.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/is5.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/itunes-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/itunes.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/itunesconnect.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/mesu-cdn.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/mesu-china.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/mesu.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/ml.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/music.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/ocsp-lb.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/ocsp.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/ocsp2-lb.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/ocsp2.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/oscdn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/oscdn.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/osxapps.itunes.g.aaplimg.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/pancake.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/pancake.cdn-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/pba0.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/probe.siri.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/prod-support.apple-support.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/publicassets.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/reserve-prime.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/s.mzstatic.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/seed-sequoia.siri.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/seed-swallow.siri.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/seed.siri.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/sequoia.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/sh-pod2-smp-device.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/shazam-insights.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/smp-device-content.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/static.gc.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/stocks-sparkline-lb.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/stocks-sparkline.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/store.apple.com.edgekey.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/store.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/store.storeimages.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/store.storeimages.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/support-china.apple-support.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/support.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swallow-apple-com.v.aaplimg.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swallow.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swcatalog-cdn.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swcatalog.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swcdn.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swcdn.g.aaplimg.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swdist.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swdist.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swscan-cdn.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/swscan.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/sylvan.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/tj-pod1-smp-device.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/updates-http.cdn-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/updates-http.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/updates.cdn-apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/valid.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/valid.origin-apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/weather-data.apple.com.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/weather-data.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/weather-map.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/weather-map2.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/weatherkit.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]114.114.114.114 101.226.4.6 119.28.28.28
-[/www.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
-[/xp.apple.com/]114.114.114.114 101.226.4.6 119.28.28.28
+[/a1.mzstatic.com/]180.184.1.1 119.29.29.29
+[/a2.mzstatic.com/]180.184.1.1 119.29.29.29
+[/a3.mzstatic.com/]180.184.1.1 119.29.29.29
+[/a4.mzstatic.com/]180.184.1.1 119.29.29.29
+[/a5.mzstatic.com/]180.184.1.1 119.29.29.29
+[/adcdownload.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/adcdownload.apple.com/]180.184.1.1 119.29.29.29
+[/amp-api-updates.apps.apple.com/]180.184.1.1 119.29.29.29
+[/amp-api.media.apple.com/]180.184.1.1 119.29.29.29
+[/app-site-association.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/appldnld.apple.com/]180.184.1.1 119.29.29.29
+[/appldnld.g.aaplimg.com/]180.184.1.1 119.29.29.29
+[/appleid.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/apps.apple.com/]180.184.1.1 119.29.29.29
+[/apps.mzstatic.com/]180.184.1.1 119.29.29.29
+[/bag-cdn.itunes-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/cdn-cn1.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn-cn2.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn-cn3.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn-cn4.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn1.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn2.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn3.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cdn4.apple-mapkit.com/]180.184.1.1 119.29.29.29
+[/cds-cdn.v.aaplimg.com/]180.184.1.1 119.29.29.29
+[/cds.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/cds.apple.com/]180.184.1.1 119.29.29.29
+[/cdsassets.apple.com/]180.184.1.1 119.29.29.29
+[/certs.apple.com/]180.184.1.1 119.29.29.29
+[/cl1-cdn.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/cl1.apple.com/]180.184.1.1 119.29.29.29
+[/cl2-cn.apple.com/]180.184.1.1 119.29.29.29
+[/cl2.apple.com/]180.184.1.1 119.29.29.29
+[/cl3-cdn.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/cl3.apple.com/]180.184.1.1 119.29.29.29
+[/cl4-cdn.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/cl4-cn.apple.com/]180.184.1.1 119.29.29.29
+[/cl4.apple.com/]180.184.1.1 119.29.29.29
+[/cl5-cdn.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/cl5.apple.com/]180.184.1.1 119.29.29.29
+[/clientflow.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/clientflow.apple.com/]180.184.1.1 119.29.29.29
+[/cn-smp-paymentservices.apple.com/]180.184.1.1 119.29.29.29
+[/configuration.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/configuration.apple.com/]180.184.1.1 119.29.29.29
+[/crl.apple.com/]180.184.1.1 119.29.29.29
+[/cstat.apple.com/]180.184.1.1 119.29.29.29
+[/cstat.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/dd-cdn.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/dejavu.apple.com/]180.184.1.1 119.29.29.29
+[/devimages-cdn.apple.com/]180.184.1.1 119.29.29.29
+[/devstreaming-cdn.apple.com/]180.184.1.1 119.29.29.29
+[/download.developer.apple.com/]180.184.1.1 119.29.29.29
+[/experiments.apple.com/]180.184.1.1 119.29.29.29
+[/gs-loc-cn.apple.com/]180.184.1.1 119.29.29.29
+[/gs-loc.apple.com/]180.184.1.1 119.29.29.29
+[/gsp10-ssl-cn.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gsp12-cn.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gsp13-cn.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]180.184.1.1 119.29.29.29
+[/gsp4-cn.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gsp5-cn.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gsp85-cn-ssl.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/gspe19-2-cn-ssl.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gspe19-cn-ssl.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gspe19-cn.ls-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/gspe19-cn.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gspe21-ssl.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gspe35-ssl.ls.apple.com/]180.184.1.1 119.29.29.29
+[/gspe79-cn-ssl.ls.apple.com/]180.184.1.1 119.29.29.29
+[/guzzoni-apple-com.v.aaplimg.com/]180.184.1.1 119.29.29.29
+[/guzzoni.apple.com/]180.184.1.1 119.29.29.29
+[/guzzoni.smoot.apple.com/]180.184.1.1 119.29.29.29
+[/iadsdk.apple.com/]180.184.1.1 119.29.29.29
+[/icloud-cdn.icloud.com.akadns.net/]180.184.1.1 119.29.29.29
+[/icloud.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]180.184.1.1 119.29.29.29
+[/init-kt.apple.com/]180.184.1.1 119.29.29.29
+[/init-p01md-lb.push-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/init-p01md.apple.com/]180.184.1.1 119.29.29.29
+[/init-p01st-lb.push-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/init-p01st.push.apple.com/]180.184.1.1 119.29.29.29
+[/init-s01st-lb.push-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/init-s01st.push.apple.com/]180.184.1.1 119.29.29.29
+[/init.ess.apple.com/]180.184.1.1 119.29.29.29
+[/iosapps.itunes.g.aaplimg.com/]180.184.1.1 119.29.29.29
+[/ipcdn.apple.com/]180.184.1.1 119.29.29.29
+[/iphone-ld.apple.com/]180.184.1.1 119.29.29.29
+[/iphone-ld.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/is1-ssl.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is1.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is2-ssl.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is2.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is3-ssl.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is3.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is4-ssl.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is4.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is5-ssl.mzstatic.com/]180.184.1.1 119.29.29.29
+[/is5.mzstatic.com/]180.184.1.1 119.29.29.29
+[/itunes-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/itunes.apple.com/]180.184.1.1 119.29.29.29
+[/itunesconnect.apple.com/]180.184.1.1 119.29.29.29
+[/mesu-cdn.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/mesu-china.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/mesu.apple.com/]180.184.1.1 119.29.29.29
+[/ml.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/music.apple.com/]180.184.1.1 119.29.29.29
+[/ocsp-lb.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/ocsp.apple.com/]180.184.1.1 119.29.29.29
+[/ocsp2-lb.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/ocsp2.apple.com/]180.184.1.1 119.29.29.29
+[/oscdn.apple.com/]180.184.1.1 119.29.29.29
+[/oscdn.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/osxapps.itunes.g.aaplimg.com/]180.184.1.1 119.29.29.29
+[/pancake.apple.com/]180.184.1.1 119.29.29.29
+[/pancake.cdn-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/pba0.apple.com/]180.184.1.1 119.29.29.29
+[/probe.siri.apple.com/]180.184.1.1 119.29.29.29
+[/prod-support.apple-support.akadns.net/]180.184.1.1 119.29.29.29
+[/publicassets.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/reserve-prime.apple.com/]180.184.1.1 119.29.29.29
+[/s.mzstatic.com/]180.184.1.1 119.29.29.29
+[/seed-sequoia.siri.apple.com/]180.184.1.1 119.29.29.29
+[/seed-swallow.siri.apple.com/]180.184.1.1 119.29.29.29
+[/seed.siri.apple.com/]180.184.1.1 119.29.29.29
+[/sequoia.apple.com/]180.184.1.1 119.29.29.29
+[/sh-pod2-smp-device.apple.com/]180.184.1.1 119.29.29.29
+[/shazam-insights.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/smp-device-content.apple.com/]180.184.1.1 119.29.29.29
+[/static.gc.apple.com/]180.184.1.1 119.29.29.29
+[/stocks-sparkline-lb.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/stocks-sparkline.apple.com/]180.184.1.1 119.29.29.29
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]180.184.1.1 119.29.29.29
+[/store.apple.com.edgekey.net/]180.184.1.1 119.29.29.29
+[/store.apple.com/]180.184.1.1 119.29.29.29
+[/store.storeimages.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/store.storeimages.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/support-china.apple-support.akadns.net/]180.184.1.1 119.29.29.29
+[/support.apple.com/]180.184.1.1 119.29.29.29
+[/swallow-apple-com.v.aaplimg.com/]180.184.1.1 119.29.29.29
+[/swallow.apple.com/]180.184.1.1 119.29.29.29
+[/swcatalog-cdn.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/swcatalog.apple.com/]180.184.1.1 119.29.29.29
+[/swcdn.apple.com/]180.184.1.1 119.29.29.29
+[/swcdn.g.aaplimg.com/]180.184.1.1 119.29.29.29
+[/swdist.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/swdist.apple.com/]180.184.1.1 119.29.29.29
+[/swscan-cdn.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/swscan.apple.com/]180.184.1.1 119.29.29.29
+[/sylvan.apple.com/]180.184.1.1 119.29.29.29
+[/tj-pod1-smp-device.apple.com/]180.184.1.1 119.29.29.29
+[/updates-http.cdn-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/updates-http.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/updates.cdn-apple.com/]180.184.1.1 119.29.29.29
+[/valid.apple.com/]180.184.1.1 119.29.29.29
+[/valid.origin-apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/weather-data.apple.com.akadns.net/]180.184.1.1 119.29.29.29
+[/weather-data.apple.com/]180.184.1.1 119.29.29.29
+[/weather-map.apple.com/]180.184.1.1 119.29.29.29
+[/weather-map2.apple.com/]180.184.1.1 119.29.29.29
+[/weatherkit.apple.com/]180.184.1.1 119.29.29.29
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]180.184.1.1 119.29.29.29
+[/www.apple.com/]180.184.1.1 119.29.29.29
+[/xp.apple.com/]180.184.1.1 119.29.29.29
