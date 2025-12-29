@@ -1,168 +1,168 @@
  
-[/a1.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/a2.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/a3.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/a4.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/a5.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/adcdownload.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/adcdownload.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/amp-api-updates.apps.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/amp-api.media.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/app-site-association.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/appldnld.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/appldnld.g.aaplimg.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/appleid.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/apps.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/apps.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/bag-cdn.itunes-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn-cn1.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn-cn2.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn-cn3.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn-cn4.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn1.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn2.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn3.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdn4.apple-mapkit.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cds-cdn.v.aaplimg.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cds.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cds.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cdsassets.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/certs.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl1-cdn.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl1.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl2-cn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl2.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl3-cdn.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl3.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl4-cdn.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl4-cn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl4.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl5-cdn.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cl5.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/clientflow.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/clientflow.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cn-smp-paymentservices.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/configuration.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/configuration.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/crl.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cstat.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/cstat.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/dd-cdn.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/dejavu.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/devimages-cdn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/devstreaming-cdn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/download.developer.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/experiments.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gs-loc-cn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gs-loc.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gsp10-ssl-cn.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gsp12-cn.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gsp13-cn.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gsp4-cn.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gsp5-cn.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gsp85-cn-ssl.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe19-2-cn-ssl.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe19-cn-ssl.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe19-cn.ls-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe19-cn.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe21-ssl.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe35-ssl.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/gspe79-cn-ssl.ls.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/guzzoni-apple-com.v.aaplimg.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/guzzoni.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/guzzoni.smoot.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/iadsdk.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/icloud-cdn.icloud.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/icloud.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init-kt.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init-p01md-lb.push-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init-p01md.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init-p01st-lb.push-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init-p01st.push.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init-s01st-lb.push-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init-s01st.push.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/init.ess.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/iosapps.itunes.g.aaplimg.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/ipcdn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/iphone-ld.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/iphone-ld.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is1-ssl.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is1.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is2-ssl.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is2.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is3-ssl.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is3.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is4-ssl.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is4.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is5-ssl.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/is5.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/itunes-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/itunes.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/itunesconnect.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/mesu-cdn.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/mesu-china.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/mesu.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/ml.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/music.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/ocsp-lb.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/ocsp.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/ocsp2-lb.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/ocsp2.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/oscdn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/oscdn.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/osxapps.itunes.g.aaplimg.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/pancake.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/pancake.cdn-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/pba0.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/probe.siri.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/prod-support.apple-support.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/publicassets.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/reserve-prime.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/s.mzstatic.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/seed-sequoia.siri.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/seed-swallow.siri.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/seed.siri.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/sequoia.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/sh-pod2-smp-device.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/shazam-insights.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/smp-device-content.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/static.gc.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/stocks-sparkline-lb.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/stocks-sparkline.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/store.apple.com.edgekey.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/store.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/store.storeimages.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/store.storeimages.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/support-china.apple-support.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/support.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swallow-apple-com.v.aaplimg.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swallow.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swcatalog-cdn.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swcatalog.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swcdn.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swcdn.g.aaplimg.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swdist.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swdist.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swscan-cdn.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/swscan.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/sylvan.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/tj-pod1-smp-device.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/updates-http.cdn-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/updates-http.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/updates.cdn-apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/valid.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/valid.origin-apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/weather-data.apple.com.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/weather-data.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/weather-map.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/weather-map2.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/weatherkit.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/www.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
-[/xp.apple.com/]tcp://223.6.6.6 tcp://180.184.2.2 tcp://218.30.118.6
+[/a1.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/a2.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/a3.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/a4.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/a5.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/adcdownload.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/adcdownload.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/amp-api-updates.apps.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/amp-api.media.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/app-site-association.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/appldnld.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/appldnld.g.aaplimg.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/appleid.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/apps.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/apps.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/bag-cdn.itunes-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn-cn1.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn-cn2.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn-cn3.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn-cn4.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn1.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn2.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn3.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdn4.apple-mapkit.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cds-cdn.v.aaplimg.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cds.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cds.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cdsassets.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/certs.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl1-cdn.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl1.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl2-cn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl2.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl3-cdn.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl3.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl4-cdn.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl4-cn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl4.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl5-cdn.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cl5.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/clientflow.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/clientflow.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cn-smp-paymentservices.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/configuration.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/configuration.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/crl.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cstat.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/cstat.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/dd-cdn.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/dejavu.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/devimages-cdn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/devstreaming-cdn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/download.developer.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/experiments.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gs-loc-cn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gs-loc.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gsp10-ssl-cn.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gsp12-cn.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gsp13-cn.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gsp4-cn.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gsp5-cn.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gsp85-cn-ssl.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe19-2-cn-ssl.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe19-cn-ssl.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe19-cn.ls-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe19-cn.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe21-ssl.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe35-ssl.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/gspe79-cn-ssl.ls.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/guzzoni-apple-com.v.aaplimg.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/guzzoni.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/guzzoni.smoot.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/iadsdk.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/icloud-cdn.icloud.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/icloud.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init-kt.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init-p01md-lb.push-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init-p01md.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init-p01st-lb.push-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init-p01st.push.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init-s01st-lb.push-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init-s01st.push.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/init.ess.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/iosapps.itunes.g.aaplimg.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/ipcdn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/iphone-ld.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/iphone-ld.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is1-ssl.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is1.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is2-ssl.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is2.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is3-ssl.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is3.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is4-ssl.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is4.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is5-ssl.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/is5.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/itunes-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/itunes.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/itunesconnect.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/mesu-cdn.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/mesu-china.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/mesu.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/ml.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/music.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/ocsp-lb.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/ocsp.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/ocsp2-lb.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/ocsp2.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/oscdn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/oscdn.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/osxapps.itunes.g.aaplimg.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/pancake.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/pancake.cdn-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/pba0.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/probe.siri.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/prod-support.apple-support.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/publicassets.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/reserve-prime.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/s.mzstatic.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/seed-sequoia.siri.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/seed-swallow.siri.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/seed.siri.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/sequoia.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/sh-pod2-smp-device.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/shazam-insights.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/smp-device-content.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/static.gc.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/stocks-sparkline-lb.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/stocks-sparkline.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/store.apple.com.edgekey.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/store.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/store.storeimages.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/store.storeimages.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/support-china.apple-support.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/support.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swallow-apple-com.v.aaplimg.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swallow.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swcatalog-cdn.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swcatalog.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swcdn.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swcdn.g.aaplimg.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swdist.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swdist.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swscan-cdn.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/swscan.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/sylvan.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/tj-pod1-smp-device.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/updates-http.cdn-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/updates-http.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/updates.cdn-apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/valid.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/valid.origin-apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/weather-data.apple.com.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/weather-data.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/weather-map.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/weather-map2.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/weatherkit.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/www.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
+[/xp.apple.com/]223.6.6.6 180.184.2.2 218.30.118.6 2400:3200::1
