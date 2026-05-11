@@ -32,6 +32,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/cl1.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/cl2-cn.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/cl2.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/cl3-cdn.origin-apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/cl3.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
@@ -57,6 +58,7 @@
 [/gs-loc-cn.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gs-loc.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gsp10-ssl-cn.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gsp11-cn.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gsp12-cn.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gsp13-cn.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
@@ -75,8 +77,6 @@
 [/guzzoni.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/guzzoni.smoot.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/iadsdk.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/icloud-cdn.icloud.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/icloud.cdn-apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/init-kt.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/init-p01md-lb.push-apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
@@ -109,20 +109,16 @@
 [/mesu.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/ml.cdn-apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/music.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ocsp-lb.apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/ocsp.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/ocsp2-lb.apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/ocsp2.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/oscdn.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/oscdn.origin-apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/osxapps.itunes.g.aaplimg.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/pancake.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/pancake.cdn-apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/pba0.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/probe.siri.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/prod-support.apple-support.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/publicassets.cdn-apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
-[/reserve-prime.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/s.mzstatic.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/seed-sequoia.siri.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/seed-swallow.siri.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
