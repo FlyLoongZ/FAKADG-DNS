@@ -104,6 +104,7 @@
 [/itunes-apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/itunes.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/itunesconnect.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/mensura.cdn-apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/mesu-cdn.apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/mesu-china.apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/mesu.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
