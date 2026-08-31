@@ -65,6 +65,7 @@
 [/gsp4-cn.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gsp5-cn.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gsp85-cn-ssl.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
+[/gspe11-2-cn-ssl.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gspe19-2-cn-ssl.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
 [/gspe19-cn-ssl.ls.apple.com/]tls://dot.pub tls://dns.alidns.com tls://dot-pure.onedns.net
