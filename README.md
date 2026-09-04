@@ -45,7 +45,7 @@ Usage
 
 根据[dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list)的规则写了一个github action，自动同步它的新文件并建立AdGuard Home DNS规则。可以通过设置github自定义上游DOH/DOT服务器，~~默认国内走阿里DOH，国外走Cloudflare DOH。~~默认合并了googlehost，applehost，和国内域名。
 
-![](picture/github_setting.jpg)
+![](picture/github_setting.png)
 
 直接能用👉<https://github.com/FlyLoongZ/FAKADG-DNS/raw/refs/heads/file/FAK-DNS.txt>
 如果你想自定义就fork一下，然后改一下，CN_DNS填国内的，THE_DNS是国外的，两者都可以添加多个，注意换行，每行填写一个。
