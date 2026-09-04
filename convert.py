@@ -38,7 +38,7 @@ def main():
             file.write(the_dns + "\n" + existing_content)
 
 # 从环境变量中获取 DNS URL
-cn_dns = os.environ.get('CN_DNS').replace('\n', ' ')
-the_dns = os.environ.get('THE_DNS')
+cn_dns = ' '.join(os.environ.get('CN_DNS', '').split())
+the_dns = '\n'.join(os.environ.get('THE_DNS', '').split())
 
 main()
