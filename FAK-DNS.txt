@@ -1,5 +1,4 @@
-tls://dot.pub
-tls://dns.alidns.com
+
 [/a1.mzstatic.com/]tls://dot.pub tls://dns.alidns.com
 [/a2.mzstatic.com/]tls://dot.pub tls://dns.alidns.com
 [/a3.mzstatic.com/]tls://dot.pub tls://dns.alidns.com

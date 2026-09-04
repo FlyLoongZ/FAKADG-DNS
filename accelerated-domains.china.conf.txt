@@ -1,5 +1,4 @@
-tls://dot.pub
-tls://dns.alidns.com
+
 [/0.xn--czrs0t/]tls://dot.pub tls://dns.alidns.com
 [/0.xn--unup4y/]tls://dot.pub tls://dns.alidns.com
 [/0.zone/]tls://dot.pub tls://dns.alidns.com
