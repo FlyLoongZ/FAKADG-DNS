@@ -1,4 +1,5 @@
-
+tls://dot.pub
+tls://dns.alidns.com
 [/265.com/]tls://dot.pub tls://dns.alidns.com
 [/2mdn-cn.net/]tls://dot.pub tls://dns.alidns.com
 [/2mdn.net/]tls://dot.pub tls://dns.alidns.com
